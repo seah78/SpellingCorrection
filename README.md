@@ -1,0 +1,2 @@
+# SpellingCorrection
+Correction orthographique
